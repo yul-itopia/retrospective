@@ -1,10 +1,8 @@
 # Definition of Done (DoD)
 
+## Overview
 
 ![Definition_of_Done](./Image/definition-of-done.png "Definition_of_Done")
-
-
-## Overview
 
 - This technique helps:
     - Identify all activities which need to be completed for the user story to meet the customer needs
